@@ -1,0 +1,89 @@
+.fa-qs {
+  color: var(--black);
+  font-weight: 800;
+  height: 24px;
+  line-height: 34px;
+  margin-bottom: -10px;
+  margin-left: 2.0px;
+  margin-top: 32px;
+  min-height: 24px;
+  min-width: 630px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 630px;
+}
+.frame-1589 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 246px;
+  padding: 32px 38px;
+  width: 628px;
+}
+.frame-1591 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  min-width: 548px;
+  position: relative;
+}
+.frame-1603 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1591px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 768px;
+}
+.frame-1653 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 70px;
+  min-height: 834px;
+  position: absolute;
+  top: 410px;
+  width: 628px;
+}
+.overlap-group {
+  height: 1591px;
+  position: relative;
+  width: 768px;
+}
+.rectangle-76 {
+  height: 250px;
+  margin-top: 24px;
+  mix-blend-mode: normal;
+  width: 768px;
+}
+.text-3 {
+  color: var(--black2);
+  font-weight: 800;
+  height: 34px;
+  line-height: 34px;
+  min-height: 34px;
+  min-width: 275px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-4 {
+  color: var(--dark-grey);
+  line-height: 28px;
+  margin-top: 8px;
+  min-height: 140px;
+  min-width: 550px;
+  mix-blend-mode: normal;
+  width: 550px;
+}
+.x11-faq-s-page-tablet {
+  align-items: flex-start;
+  background-color: var(--desert-storm);
+  display: flex;
+  height: 1615px;
+  mix-blend-mode: normal;
+  width: 768px;
+}

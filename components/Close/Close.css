@@ -1,0 +1,12 @@
+.close {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  margin-left: 245px;
+  padding: 0 7px;
+  width: 28px;
+}
+.vector-9 {
+  height: 14px;
+  width: 14px;
+}
